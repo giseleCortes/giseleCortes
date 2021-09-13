@@ -8,7 +8,7 @@
 
 #### Sobre Mim
 - 🎓 &nbsp; Estudando Direito
-- 🌱 &nbsp; Learnig Front end| Back end >> Futura DevFullstack
+- 🌱 &nbsp; Learning Front end| Back end >> Futura DevFullstack
 - 🌱 &nbsp; No tempo livre  gosto de jogar lol, NetFlix e musica
  
  
