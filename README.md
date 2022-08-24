@@ -8,7 +8,7 @@
 
 #### Sobre Mim
 - 🌱 &nbsp; Learning Front end| Back end >> Futura DevFullstack
-- 🌱 &nbsp; No tempo livre  gosto de jogar LoL, ouvir musica/podcast...
+- 🌱 &nbsp; No tempo livre? LoL, podcast, artesanato.
  
  
   
