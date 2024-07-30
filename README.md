@@ -7,8 +7,8 @@
 </div>
 
 #### Sobre Mim
-- 🌱 &nbsp; Learning Front end| Back end >> Futura DevFullstack
-- 🌱 &nbsp; No tempo livre? LoL, podcast, artesanato.
+- 🌱 &nbsp; Desenvolvedora: 
+
  
  
   
@@ -21,9 +21,10 @@
  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+ <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg"> 
  <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
  <img align="center" alt="npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+ 
 
 </div>
  
