@@ -21,7 +21,7 @@ jobs:
         run: npm install -g wakatime/waka-readme-stats
 
       - name: Generate Stats
-        run: waka-readme-stats --user=username --waka-time-api-key=${{ secrets.WAKATIME_API_KEY }}
+        run: waka-readme-stats --user=giseleCortes --waka-time-api-key=${{ secrets.WAKATIME_API_KEY }}
 
       - name: Commit & Push
         run: |
