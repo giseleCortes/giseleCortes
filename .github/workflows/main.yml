@@ -1,0 +1,34 @@
+name: WakaTime Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install Dependencies
+        run: npm install -g wakatime/waka-readme-stats
+
+      - name: Generate Stats
+        run: waka-readme-stats --user=username --waka-time-api-key=${{ secrets.WAKATIME_API_KEY }}
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Updated waka-readme stats'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
