@@ -6,8 +6,9 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giseleCortes&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-#### Sobre Mim
-- 🌱 &nbsp; Desenvolvedora: 
+#### 
+- &nbsp; Desenvolvedora|Estudante
+  
 
  
  
