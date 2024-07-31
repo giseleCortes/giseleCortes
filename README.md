@@ -9,7 +9,7 @@
 #### 
 - &nbsp; Desenvolvedora|Estudante
 
-📊 **this week i spent my time on:**
+📊 **Como foi minha semana:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
