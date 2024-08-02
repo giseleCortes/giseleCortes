@@ -18,10 +18,10 @@ jobs:
           node-version: '14'
 
       - name: Install Dependencies
-        run: npm install -g @wakatime/waka-readme-stats
+        run: npm install -g wakatime-stats
 
       - name: Generate Stats
-        run: waka-readme-stats --user=giseleCortes --waka-time-api-key=${{ secrets.WAKATIME_API_KEY }}
+        run: wakatime-stats --user=giseleCortes --waka-time-api-key=${{ secrets.WAKATIME_API_KEY }}
 
       - name: Commit & Push
         run: |
