@@ -35,9 +35,7 @@
 </br>
 
 
-📊 **Como foi minha semana:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
  
  ![Snake animation](https://github.com/TaniziaFagundes/TaniziaFagundes/blob/output/github-contribution-grid-snake.svg)
 
